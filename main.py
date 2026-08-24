@@ -1,1 +1,6 @@
 print("Hello World!")
+input("What is your greatest strengths?")
+input("what is your biggest weakness?")
+input("what is your greatest professional achievement?")
+input("What motivates you?")
+input("what are your salary expectations?")
