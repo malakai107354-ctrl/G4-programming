@@ -1,6 +1,19 @@
-print("Hello World!")
-input("What is your greatest strengths?")
-input("what is your biggest weakness?")
-input("what is your greatest professional achievement?")
-input("What motivates you?")
-input("what are your salary expectations?")
+"""
+Filename: interview.py
+Author: <Croft, Malakai>
+Created: 10/13/2009
+Instructor: Burgess
+"""
+x=input("What is your greatest strengths?")
+print(x)
+x=input("what is your biggest weakness?")
+print(x)
+x=input("what is your greatest professional achievement?")
+print(x)
+x=input("What motivates you?")
+print(x)
+x=input("what are your salary expectations?")
+print(x)
+
+
+
