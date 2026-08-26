@@ -1,7 +1,7 @@
 """
 Filename: interview.py
 Author: <Croft, Malakai>
-Created: 10/13/2009
+Created: 8/26/2026
 Instructor: Burgess
 """
 x=input("What is your greatest strengths?")
