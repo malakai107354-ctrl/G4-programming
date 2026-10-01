@@ -11,7 +11,7 @@ x=input("Correct! You have been awarded 2 points!")
 
 X=input("What symbol is used to perform the modulo operation in Python?")
 if x=="5":
-    print("Correct! You have been awarded 2 points!")
+    print("Correct!")
     x=input("Correct! You have been awarded 2 points!")
 
 X=input("Strings are actually arrays of what data type?")
@@ -53,3 +53,7 @@ X=input("What method is used to convert a string to all lowercase characters?")
 if x=="lower():":
     print("Correct!")
 x=input("Correct! You have been awarded 2 points!")
+
+"Thank you for playing the Trivia Game!"
+"you answered 10/10 questions correctly"
+"and received a score of 20/20!"
