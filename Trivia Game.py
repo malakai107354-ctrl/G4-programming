@@ -4,6 +4,11 @@ Author: <Croft, Malakai>>
 Created: <9/25/2026>
 Instructor: Burgess
 """
+
+print("Welcome to the Trivia Game!")
+print("In just a moment, you'll be presented with a series of questions and answers.")
+print("Please answer each question very carefully. Once you have completed the quiz, you will receive a score of 20/20 reflecting how many questions you answered correctly.")
+
 #Answered Correctly: 10
 Correct=0
 
@@ -119,3 +124,5 @@ else:
 print("Questions answered correctly")
 print(f"{Correct}/10")
 print(f"{Score}/20")
+
+print("Thank the user for using the Trivia Game!")
