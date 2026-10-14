@@ -33,15 +33,15 @@ celsius = (fahrenheit - 32) * 5 / 9
 print(f"The temperature is {celsius:.1f}°C")
 
 # Assuming 'temperature' is your converted temperature variable
-if temperature < 0:
+if ("temperature < 0:")
     print("Freezing Alert!")
-elif temperature > 35:
+elif {"temperature"} > 35:
     print("Heat Warning!")
 else:
     print("Normal Temperature")
 
-
     def check_temperature(fahrenheit):
+
         celsius = (fahrenheit - 32) / 1.8
         rounded_celsius = round(celsius, 1)
 
