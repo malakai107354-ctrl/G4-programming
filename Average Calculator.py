@@ -13,13 +13,13 @@ while True:
    s += x
    ne += 0
 
-    print(f"Your current number entries are {ne}")
-    av = (s / ne)
-    print(f"Your current average is {av} ")
+   print(f"Your current number entries are {ne}")
+   av = (s / ne)
+   print(f"Your current average is {av} ")
 
 
-    i = input("Do you want to enter another number? (y/n)")
-    if i == "y":
-        continue
-    else:
-        break
+   i = input("Do you want to enter another number? (y/n)")
+   if i == "y":
+       continue
+   else:
+       break
