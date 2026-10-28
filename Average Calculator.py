@@ -11,7 +11,7 @@ while True:
 
    x=int(input("Enter a number"))
    s += x
-   ne += 0
+   ne += 1
 
    print(f"Your current number entries are {ne}")
    av = (s / ne)
